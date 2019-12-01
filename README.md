@@ -1,5 +1,5 @@
 # React-and-Django-Based-Smart-OCR
-Trying to develop a smart OCR using Computer Vision and Image Processing Techniques.  
+Development in Process:::: A smart OCR using Computer Vision and Image Processing Techniques.  
 
 
 image_process.py implements receipt processing and extracting text form script
