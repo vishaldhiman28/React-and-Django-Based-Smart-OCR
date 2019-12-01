@@ -18,7 +18,7 @@ Processed/ :contains Processed images
 
 <br>
 <h2>Frontend</h2>
-<img height="500" src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Screenshot-2019-12-1%20React%20App(1).png"/>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Screenshot-2019-12-1%20React%20App(1).png"/>
 </br>
 
 <br>
