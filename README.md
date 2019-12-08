@@ -13,9 +13,17 @@ Development in Process :- A smart OCR using Computer Vision and Image Processing
 **Here is the video and images for the working app:
 
 <h2>Working Video as GIFs</h2>
-<p>0:30</p>
 <br>
+<p>0:30 sec</p>
 <img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/0:30.gif"/>
+</br>
+<br>
+<p>30:60 sec</p>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/30:60.gif"/>
+</br>
+<br>
+<p>60:74 sec</p>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/60:74.gif"/>
 </br>
 
 <h2>Frontend</h2>
