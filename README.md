@@ -9,8 +9,11 @@ Processed/ : contains Processed images
 
 
 
-**Here is the video sample for the app:
+**Here is the video and images for the working app:
 
+<h2>Working Video as GIFs</h2>
+<p>0:30</p>
+ ![](Working Images and Video/0:30.gif)
 
 <h2>Frontend</h2>
 <br>
@@ -19,14 +22,13 @@ Processed/ : contains Processed images
 </br>
 
 <br>
-<h3>After processing outputs for sample images</h3>
-<p>Image that contains date</p>
+<h3>After processing outputs for sample images:</h3>
+<p>Image that contains date.</p>
 <img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_in_image.png"/>
 </br>
 <br>
-<p>Image that does not contains date</p>
+<p>Image that does not contains date.</p>
 <img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_Not_in_image.png"/>
-        
 </br>
 
 
