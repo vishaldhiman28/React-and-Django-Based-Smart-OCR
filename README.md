@@ -11,10 +11,23 @@ Processed/ : contains Processed images
 
 **Here is the video sample for the app:
 
-<br>
+
 <h2>Frontend</h2>
-<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Screenshot-2019-12-1%20React%20App(1).png"/>
+<br>
+<h3>Home Page</h3>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Main_App.png"/>
 </br>
+
+<br>
+<h3>After processing outputs for sample images</h3>
+<p>Image that contains date</p>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_in_image.png"/>
+
+<p>Image that does not contains date</p>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_Not_in_image.png/>
+        
+</br>
+
 
 <br>
 <h2>Backend</h2>
