@@ -25,7 +25,7 @@ A smart OCR using Computer Vision and Image Processing Techniques.
 </br>
 <br>
 <p>60:74 sec</p>
-<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/60:74.gif"/>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/60:71.gif"/>
 </br>
 
 <h2>Frontend</h2>
