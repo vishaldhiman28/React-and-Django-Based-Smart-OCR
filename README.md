@@ -2,10 +2,11 @@
 Development in Process :- A smart OCR using Computer Vision and Image Processing Techniques.  
 
 
-Frontend/  : contains Frontend implementation for the app using React
-Backend/   : contains Backend implementation for the app using Django
-Original/  : contains original images
-Processed/ : contains Processed images
+    
+    Frontend/  : contains Frontend implementation for the app using React
+    Backend/   : contains Backend implementation for the app using Django
+    Original/  : contains original images
+    Processed/ : contains Processed images
 
 
 
@@ -13,7 +14,7 @@ Processed/ : contains Processed images
 
 <h2>Working Video as GIFs</h2>
 <p>0:30</p>
- ![](Working Images and Video/0:30.gif)
+ ![](https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/0:30.gif)
 
 <h2>Frontend</h2>
 <br>
