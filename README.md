@@ -9,7 +9,7 @@ A smart OCR using Computer Vision and Image Processing Techniques.
     Original/  : contains original images
     Processed/ : contains Processed images
     
-<p><a href="https://www.youtube.com/watch?v=AWgVRMumvH0&feature=youtu.be">Click to see Video.</a></p>
+<p><a href="https://youtu.be/Jw_48nKauPo">Click to see Video.</a></p>
 
 
 **Here is the video and images for the working app:**
