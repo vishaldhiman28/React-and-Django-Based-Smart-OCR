@@ -1,6 +1,6 @@
 # React-and-Django-Based-Smart-OCR
-Development in Process :- A smart OCR using Computer Vision and Image Processing Techniques.  
-
+A smart OCR using Computer Vision and Image Processing Techniques.  
+(This can not give desired output sometimes because I have not used deep learning till now. I will be improving it and also I will host the app on some cloud platform in the future.)
 
     
     Frontend/  : contains Frontend implementation for the app using React
