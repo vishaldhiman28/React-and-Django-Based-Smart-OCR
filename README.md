@@ -14,7 +14,9 @@ Development in Process :- A smart OCR using Computer Vision and Image Processing
 
 <h2>Working Video as GIFs</h2>
 <p>0:30</p>
- ![](React-and-Django-Based-Smart-OCR/Working Images and Video/0:30.gif )
+<br>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/0:30.gif"/>
+</br>
 
 <h2>Frontend</h2>
 <br>
