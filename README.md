@@ -31,17 +31,17 @@ A smart OCR using Computer Vision and Image Processing Techniques.
 <h2>Frontend</h2>
 <br>
 <h3>Home Page</h3>
-<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Main_App.png"/>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Home_Page.png"/>
 </br>
 
 <br>
 <h3>After processing outputs for sample images:</h3>
 <p>Image that contains date.</p>
-<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_in_image.png"/>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/date_in_image.png"/>
 </br>
 <br>
 <p>Image that does not contains date.</p>
-<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_Not_in_image.png"/>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_Not_IN_image.png"/>
 </br>
 
 
