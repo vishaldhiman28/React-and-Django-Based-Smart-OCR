@@ -25,7 +25,7 @@ Processed/ : contains Processed images
 </br>
 <br>
 <p>Image that does not contains date</p>
-<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_Not_in_image.png/>
+<img  src="https://github.com/cyberdhiman/React-and-Django-Based-Smart-OCR/blob/master/Working%20Images%20and%20Video/Date_Not_in_image.png"/>
         
 </br>
 
