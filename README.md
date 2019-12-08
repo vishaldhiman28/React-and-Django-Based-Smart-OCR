@@ -1,5 +1,6 @@
 # React-and-Django-Based-Smart-OCR
-A smart OCR using Computer Vision and Image Processing Techniques.  
+A smart OCR using Computer Vision and Image Processing Techniques. 
+(React, Django, Rest-framework)
 (This can not give desired output sometimes because I have not used deep learning till now. I will be improving it and also I will host the app on some cloud platform in the future.)
 
     
@@ -11,7 +12,7 @@ A smart OCR using Computer Vision and Image Processing Techniques.
 <p><a href="https://www.youtube.com/watch?v=AWgVRMumvH0&feature=youtu.be">Click to see Video.</a></p>
 
 
-**Here is the video and images for the working app:
+**Here is the video and images for the working app:**
 
 <h2>Working Video as GIFs</h2>
 <br>
