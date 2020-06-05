@@ -10,7 +10,7 @@ A smart OCR using Computer Vision and Image Processing Techniques.
     Backend/   : contains Backend implementation for the app using Django
     Original/  : contains original images
     Processed/ : contains Processed images
-<p><a href="smartocrv.herokuapp.com/">Live Demo</a></p>
+<p><a href="https://smartocrv.herokuapp.com/">Live Demo</a></p>
 <p><a href="https://youtu.be/Jw_48nKauPo">Click to see Video.</a></p>
 
 
