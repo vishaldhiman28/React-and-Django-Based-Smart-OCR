@@ -10,7 +10,7 @@ imutils==0.5.3
 kiwisolver==1.1.0
 Markdown==3.1.1
 numpy==1.17.4
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 Pillow==6.2.1
 psycopg2-binary==2.8.4
 pytesseract==0.3.0
